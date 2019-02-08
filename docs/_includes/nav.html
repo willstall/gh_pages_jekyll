@@ -1,4 +1,7 @@
 <nav>
-  <a href="{{ " ./ "append: | relative_url }}">Home</a>
-  <a href="{{ "/about.html "append: | relative_url }}">About</a>
-</nav>
+    {% for item in site.data.nav %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </nav>

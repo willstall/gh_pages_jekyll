@@ -1,4 +1,6 @@
-# How to get githubpages working locally
+---
+test_yaml: 'This page has header yaml'
+---
 
 ## Step 1
 Create gemfile

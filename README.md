@@ -1,1 +1,1 @@
-# gh_pages_jeykyll
+This repository serves as a quick reference for how to locally serve up gh-pages style jekyll

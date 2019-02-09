@@ -1,9 +1,11 @@
 <h2>
   <nav>
       {% for item in site.data.nav %}
-        <a href="{{ site.url }}{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+        <a href="{{  relative_url |  append: item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
           {{ item.name }}
         </a>
       {% endfor %}
   </nav>
 </h2>
+
+<!-- | append: site.github.build_revision | relative_url  -->

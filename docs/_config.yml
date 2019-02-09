@@ -1,10 +1,28 @@
-header_pages:
-  - about.md
-  - blog.md
-
-plugins:
-  - jekyll-sitemap
-
 collections:
   authors:
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+      
+header_pages:
+  - about.md
+  - blog.md
+  - staff.md
+
+plugins:
+  - jekyll-sitemap

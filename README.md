@@ -3,6 +3,7 @@ This repository serves as a quick reference for how to locally serve up gh-pages
 Instructions:
 - `brew install ruby`
 - `gem install jekyll bundler`
+- `cd docs`
 - `bundle install`
 - `bundle exec jekyll serve`
 

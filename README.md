@@ -5,7 +5,7 @@ This repository serves as a quick reference for how to locally serve up gh-pages
 [See Here](https://willstall.github.io/gh_pages_jeykyll/)
 
 Instructions:
-- [install brew](https://brew.sh)
+
 - `brew install ruby`
 - `gem install bundler`
 - `gem install jekyll bundler`
@@ -15,5 +15,6 @@ Instructions:
 
 
 ## Resources
+- [Brew](https://brew.sh)
 - [Jekyll](https://jekyllrb.com/docs/)
 - [Mohave Ruby Issues](https://desiredpersona.com/install-jekyll-on-macos/)

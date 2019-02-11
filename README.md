@@ -1,4 +1,4 @@
-This repository serves as a quick reference for how to locally serve up gh-pages style jekyll
+This repository serves as a quick reference for how to locally serve up gh-pages w/ jekyll both online and locally
 
 # Demo
 

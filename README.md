@@ -15,5 +15,5 @@ Instructions:
 
 
 ## Resources
-[Jekyll](https://jekyllrb.com/docs/)
-[Mohave Ruby Issues](https://desiredpersona.com/install-jekyll-on-macos/)
+- [Jekyll](https://jekyllrb.com/docs/)
+- [Mohave Ruby Issues](https://desiredpersona.com/install-jekyll-on-macos/)

@@ -2,10 +2,10 @@
   link: /
 
 - name: Blog
-  link: /blog.html
+  link: /blog
 
 - name: Staff
-  link: /staff.html  
+  link: /staff  
   
 - name: About
-  link: /about.html
+  link: /about

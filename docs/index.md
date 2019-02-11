@@ -1,5 +1,5 @@
 ---
-test_yaml: 'This page has header yaml'
+test_yaml: 'You can store additional page and site data in yaml.'
 ---
 
 ## Step 1

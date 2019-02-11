@@ -1,4 +1,4 @@
-This repository serves as a quick reference for how to locally serve up gh-pages style jekyll
+This repository serves as a quick reference for how to locally serve up gh-pages w/ jekyll both online and locally
 
 # Demo
 
@@ -18,3 +18,4 @@ Instructions:
 - [Brew](https://brew.sh)
 - [Jekyll](https://jekyllrb.com/docs/)
 - [Mohave Ruby Issues](https://desiredpersona.com/install-jekyll-on-macos/)
+- [All-in-one Guide](http://jmcglone.com/guides/github-pages/)
